@@ -7,6 +7,7 @@ The repository is organized into three main sections 3️⃣:
 - 📜 **JS Basics**: Here, you will find exercises that cover the basics of JavaScript, such as variables, data types and functions. These foundational tasks are essential for any aspiring developer to grasp the language.
 - 💻 **JS Fundamentals**: This section delves deeper into JavaScript concepts, introducing essential topics.
 
+
 ## 📂 JS Basics
 📖 This section contains a variety of exercises designed to introduce you to the basic principles of JavaScript. Each task focuses on key concepts, providing a solid foundation for writing JavaScript code.
 
