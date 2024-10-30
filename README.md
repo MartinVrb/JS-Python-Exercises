@@ -12,9 +12,15 @@ The repository is organized into three main sections:
 
 ### 📌 Table of Contents:
 🔗 [**First Steps in Coding**](https://github.com/MartinVrb/Web-Essentials/tree/main/02-js-basics/01-first-steps-in-coding-js)
+
 🔗 [**Conditional Statements**](https://github.com/MartinVrb/Web-Essentials/tree/main/02-js-basics/02-conditional-statements-js)
+
 🔗 [**Conditional Statements Advanced**](https://github.com/MartinVrb/Web-Essentials/tree/main/02-js-basics/03-conditional-statements-advanced-js)
+
 🔗 [**For Loop**](https://github.com/MartinVrb/Web-Essentials/tree/main/02-js-basics/04-for-loop-js)
+
 🔗 [**While Loop**](https://github.com/MartinVrb/Web-Essentials/tree/main/02-js-basics/05-while-loop-js)
+
 🔗 [**Nested Loops**](https://github.com/MartinVrb/Web-Essentials/tree/main/02-js-basics/06-nested-loops-js)
+
 🔗 [**Final Exam JS Basics**](https://github.com/MartinVrb/Web-Essentials/tree/main/02-js-basics/07-final-exam-js-basics)
