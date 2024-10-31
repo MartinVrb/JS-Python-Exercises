@@ -11,16 +11,36 @@ The repository is organized into three main sections:
 📖 This section contains a variety of exercises designed to introduce you to the basic principles of JavaScript. Each task focuses on key concepts, providing a solid foundation for writing JavaScript code.
 
 ### 📌 Table of Contents:
-🔗 [**First Steps in Coding**](https://github.com/MartinVrb/Web-Essentials/tree/main/02-js-basics/01-first-steps-in-coding-js)
+➡ [**First Steps in Coding**](https://github.com/MartinVrb/Web-Essentials/tree/main/02-js-basics/01-first-steps-in-coding-js)
 
-🔗 [**Conditional Statements**](https://github.com/MartinVrb/Web-Essentials/tree/main/02-js-basics/02-conditional-statements-js)
+➡ [**Conditional Statements**](https://github.com/MartinVrb/Web-Essentials/tree/main/02-js-basics/02-conditional-statements-js)
 
-🔗 [**Conditional Statements Advanced**](https://github.com/MartinVrb/Web-Essentials/tree/main/02-js-basics/03-conditional-statements-advanced-js)
+➡ [**Conditional Statements Advanced**](https://github.com/MartinVrb/Web-Essentials/tree/main/02-js-basics/03-conditional-statements-advanced-js)
 
-🔗 [**For Loop**](https://github.com/MartinVrb/Web-Essentials/tree/main/02-js-basics/04-for-loop-js)
+➡ [**For Loop**](https://github.com/MartinVrb/Web-Essentials/tree/main/02-js-basics/04-for-loop-js)
 
-🔗 [**While Loop**](https://github.com/MartinVrb/Web-Essentials/tree/main/02-js-basics/05-while-loop-js)
+➡ [**While Loop**](https://github.com/MartinVrb/Web-Essentials/tree/main/02-js-basics/05-while-loop-js)
 
-🔗 [**Nested Loops**](https://github.com/MartinVrb/Web-Essentials/tree/main/02-js-basics/06-nested-loops-js)
+➡ [**Nested Loops**](https://github.com/MartinVrb/Web-Essentials/tree/main/02-js-basics/06-nested-loops-js)
 
-🔗 [**Final Exam JS Basics**](https://github.com/MartinVrb/Web-Essentials/tree/main/02-js-basics/07-final-exam-js-basics)
+➡ [**Final Exam JS Basics**](https://github.com/MartinVrb/Web-Essentials/tree/main/02-js-basics/07-final-exam-js-basics)
+
+## 📂 JS Fundamentals
+📖 This section builds on the foundations laid in JS Basics by introducing more complex concepts and exercises. These assignments are designed to reinforce core skills, leading to greater experience in solving problems with JavaScript.
+
+### 📌 Table of Contents:
+➡ [**Basic Syntax, Conditional Statements and Loops**](https://github.com/MartinVrb/Web-Essentials/tree/main/03-js-fundamentals/01-basic-syntax-conditional-statements-and-loops-js)
+
+➡ [**Data Types and Variables**](https://github.com/MartinVrb/Web-Essentials/tree/main/03-js-fundamentals/02-data-types-and-variables-js)
+
+➡ [**Arrays**](https://github.com/MartinVrb/Web-Essentials/tree/main/03-js-fundamentals/03-arrays-js)
+
+➡ [**Functions**](https://github.com/MartinVrb/Web-Essentials/tree/main/03-js-fundamentals/04-functions-js)
+
+➡ [**Arrays Advanced**](https://github.com/MartinVrb/Web-Essentials/tree/main/03-js-fundamentals/05-arrays-advanced-js)
+
+➡ [**Objects and Classes**](https://github.com/MartinVrb/Web-Essentials/tree/main/03-js-fundamentals/06-objects-and-classes-js)
+
+➡ [**Associative Arrays**](https://github.com/MartinVrb/Web-Essentials/tree/main/03-js-fundamentals/07-associative-arrays-js)
+
+➡ [**Final Exam JS Fundamentals**](https://github.com/MartinVrb/Web-Essentials/tree/main/03-js-fundamentals/08-final-exam-js-fundamentals)
