@@ -7,7 +7,7 @@ The repository is organized into three main sections:
 - 📜 **JS Basics**: Here, you will find exercises that cover the basics of JavaScript, such as variables, arrays and functions. These foundational tasks are essential for any aspiring developer to grasp the language.
 - 💻 **JS Fundamentals**: This section delves deeper into JavaScript concepts, introducing essential topics like Objects and Classes and Regular Expressions.
 
-## 📂 JS Basics
+## 📂 JS Basics:
 📖 This section contains a variety of exercises designed to introduce you to the basic principles of JavaScript. Each task focuses on key concepts, providing a solid foundation for writing JavaScript code.
 
 ### 📌 Table of Contents:
@@ -25,7 +25,7 @@ The repository is organized into three main sections:
 
 ➡ [**Final Exam JS Basics**](https://github.com/MartinVrb/Web-Essentials/tree/main/02-js-basics/07-final-exam-js-basics)
 
-## 📂 JS Fundamentals
+## 📂 JS Fundamentals:
 📖 This section builds on the foundations laid in JS Basics by introducing more complex concepts and exercises. These assignments are designed to reinforce core skills, leading to greater experience in solving problems with JavaScript.
 
 ### 📌 Table of Contents:
